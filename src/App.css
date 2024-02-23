@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.App {
+  background-image: url('https://img.freepik.com/free-vector/gradient-purple-green-background_23-2150287132.jpg?size=626&ext=jpg&ga=GA1.1.186200124.1706591032&semt=ais');
+  background-size: cover;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
